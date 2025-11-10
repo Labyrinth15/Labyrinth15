@@ -39,7 +39,7 @@ Pursuing elegant solutions at the intersection of computation, data, and motion.
 
 <b>💡 Innovator</b><br>
 Founder and President of Sanchez & Schmitt Engineering | R&D for aerospace, defense, and automation.<br>
-Co-Founder and Director of USA Operations for the OT Cyber Initiative (FancyTapGuardian).<br>
+Co-Founder and Director of USA Operations for the OT Cyber Initiative.<br>
 Advancing in-orbit sustainability through the INTI thermal and adhesive tether architectures.<br>
 Driving the fusion of AI, security, and robotics toward field-ready, ethical systems.<br><br>
 
