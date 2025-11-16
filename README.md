@@ -72,7 +72,7 @@ To explore every frontier where logic and imagination can coexist.<br><br>
 
 <summary><b>🏛️ Leadership, Management & R&D Operations</b></summary>
 
-<p align="center">
+<p align="left">
   <a><img alt="President & Founder" src="https://img.shields.io/badge/President_&_Founder-800000.svg?logo=apachespark&logoColor=white"></a>
   <a><img alt="R&D Program Management" src="https://img.shields.io/badge/R&D_Program_Management-2F4F4F.svg?logo=projector&logoColor=white"></a>
   <a><img alt="Company Leadership" src="https://img.shields.io/badge/Company_Leadership-8B0000.svg?logo=leadership&logoColor=white"></a>
@@ -100,7 +100,7 @@ To explore every frontier where logic and imagination can coexist.<br><br>
 
 <summary><b>🧮 Programming Languages</b></summary>
 
-<p align="center">
+<p align="left">
   <a><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
   <a><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C.svg?logo=cplusplus&logoColor=white"></a>
   <a><img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-ff7400.svg?logo=mathworks&logoColor=white"></a>
@@ -111,7 +111,7 @@ To explore every frontier where logic and imagination can coexist.<br><br>
 
 <summary><b>☁️ Databases & Cloud</b></summary>
 
-<p align="center">
+<p align="left">
   <a><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white"></a>
   <a><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
   <a><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white"></a>
@@ -120,7 +120,7 @@ To explore every frontier where logic and imagination can coexist.<br><br>
 
 <summary><b>🧰 Frameworks, Libraries, & Tools</b></summary>
 
-<p align="center">
+<p align="left">
   <a><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
   <a><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"></a>
   <a><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikitlearn&logoColor=white"></a>
@@ -137,7 +137,7 @@ To explore every frontier where logic and imagination can coexist.<br><br>
 
 <summary><b>🛡️ Cybersecurity & Network Operations</b></summary>
 
-<p align="center">
+<p align="left">
   <a><img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94.svg?logo=kalilinux&logoColor=white"></a>
   <a><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7.svg?logo=wireshark&logoColor=white"></a>
   <a><img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-1F6FEB.svg?logo=metasploit&logoColor=white"></a>
@@ -154,7 +154,7 @@ To explore every frontier where logic and imagination can coexist.<br><br>
 
 <summary><b>🖥️ IT Operations & Infrastructure</b></summary>
 
-<p align="center">
+<p align="left">
   <a><img alt="Windows Server" src="https://img.shields.io/badge/Windows_Server-0078D4.svg?logo=windows&logoColor=white"></a>
   <a><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"></a>
   <a><img alt="VMware" src="https://img.shields.io/badge/VMware-607078.svg?logo=vmware&logoColor=white"></a>
@@ -171,7 +171,7 @@ To explore every frontier where logic and imagination can coexist.<br><br>
 
 <summary><b>🚁 Drone Systems & Autonomous Flight</b></summary>
 
-<p align="center">
+<p align="left">
   <a><img alt="ArduPilot" src="https://img.shields.io/badge/ArduPilot-008000.svg?logo=ardupilot&logoColor=white"></a>
   <a><img alt="Pixhawk" src="https://img.shields.io/badge/Pixhawk-333333.svg?logo=drone&logoColor=white"></a>
   <a><img alt="CubePilot" src="https://img.shields.io/badge/CubePilot-F7931E.svg?logo=drone&logoColor=white"></a>
@@ -206,7 +206,7 @@ To explore every frontier where logic and imagination can coexist.<br><br>
 
 <summary><b>🔧 Technician & Field Installation</b></summary>
 
-<p align="center">
+<p align="left">
   <a><img alt="Data Centers" src="https://img.shields.io/badge/Data_Center_Installations-0A66C2.svg?logo=databricks&logoColor=white"></a>
   <a><img alt="Structured Cabling" src="https://img.shields.io/badge/Structured_Cabling-2E8B57.svg?logo=cable&logoColor=white"></a>
   <a><img alt="Fiber Optics" src="https://img.shields.io/badge/Fiber_Optics-0066CC.svg?logo=fiber&logoColor=white"></a>
@@ -245,7 +245,7 @@ To explore every frontier where logic and imagination can coexist.<br><br>
 
 <summary><b>🌩️ Meteorological & Atmospheric Systems</b></summary>
 
-<p align="center">
+<p align="left">
   <a><img alt="Lightning Detector Arrays" src="https://img.shields.io/badge/Lightning_Detector_Arrays-FFD700.svg?logo=zap&logoColor=black"></a>
   <a><img alt="Wallops Island Stations" src="https://img.shields.io/badge/Wallops_Island_Stations-0A66C2.svg?logo=nasa&logoColor=white"></a>
   <a><img alt="Disdrometer Networks" src="https://img.shields.io/badge/Disdrometer_Networks-00BFFF.svg?logo=rainmeter&logoColor=white"></a>
