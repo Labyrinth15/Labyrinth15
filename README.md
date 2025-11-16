@@ -279,19 +279,19 @@ To explore every frontier where logic and imagination can coexist.<br><br>
 
 | Project | Description | Tech |
 |:--|:--|:--|
-| **🛰️ INTI (Orbital Debris Mitigation)** | Reusable laser-adhesive tether architecture for in-orbit debris capture and cluster formation, aligned with orbital sustainability initiatives. | Python, STK, MATLAB, CAD |
-| **🌊 GEV Control Framework (UTC 2025)** | LiDAR-guided throttle and ground-effect vehicle control system developed for the Uncrewed Triple Challenge 2025 maritime segment. | ArduPilot, Lua, Pixhawk, ROS |
-| **👨‍🚀 NASA SUITS Augmented Reality HUD** | Led software development and team management for the NASA SUITS (Space University Interactive Technology for Space Suit) Challenge. Designed a full-stack AR environment in Python integrating NASA SUITS official telemetry streams to simulate astronaut vitals (heart rate, O₂ levels, battery, CO₂) on a Microsoft HoloLens 2 heads-up display. Oversaw UI/UX design, ML data parsing pipelines, and environment deployment to mimic EVA mission operations. | Python, TensorFlow, OpenCV, Hololens SDK, Azure Spatial Anchors, NASA Telemetry API |
-| **🧩 CUAS Collective LLC - OT Cyber Initiative (Co-founder & Director, USA Ops)** | Co-founder and Director of USA Operations for a compact fail-safe inline network observability appliance. Demonstrator captures and inspects bi-directional 10 Gbps traffic, supports deterministic FPGA-accelerated packet manipulation and controlled injection, and preserves network continuity through a hardware fail-open bypass. Delivered secure boot, signed firmware, encrypted SOC telemetry, and a web-based control interface for scripted test scenarios. | FPGA (P4/RTL), Embedded Linux CPU, DPDK, Web UI, TLS telemetry, Secure Boot, Python, Rust, Grafana/ELK |
+| ** INTI (Orbital Debris Mitigation)** | Reusable laser-adhesive tether architecture for in-orbit debris capture and cluster formation, aligned with orbital sustainability initiatives. | Python, STK, MATLAB, CAD |
+| ** GEV Control Framework (UTC 2025)** | LiDAR-guided throttle and ground-effect vehicle control system developed for the Uncrewed Triple Challenge 2025 maritime segment. | ArduPilot, Lua, Pixhawk, ROS |
+| ** NASA SUITS Augmented Reality HUD** | Led software development and team management for the NASA SUITS (Space University Interactive Technology for Space Suit) Challenge. Designed a full-stack AR environment in Python integrating NASA SUITS official telemetry streams to simulate astronaut vitals (heart rate, O₂ levels, battery, CO₂) on a Microsoft HoloLens 2 heads-up display. Oversaw UI/UX design, ML data parsing pipelines, and environment deployment to mimic EVA mission operations. | Python, TensorFlow, OpenCV, Hololens SDK, Azure Spatial Anchors, NASA Telemetry API |
+| ** CUAS Collective LLC - OT Cyber Initiative (Co-founder & Director, USA Ops)** | Co-founder and Director of USA Operations for a compact fail-safe inline network observability appliance. Demonstrator captures and inspects bi-directional 10 Gbps traffic, supports deterministic FPGA-accelerated packet manipulation and controlled injection, and preserves network continuity through a hardware fail-open bypass. Delivered secure boot, signed firmware, encrypted SOC telemetry, and a web-based control interface for scripted test scenarios. | FPGA (P4/RTL), Embedded Linux CPU, DPDK, Web UI, TLS telemetry, Secure Boot, Python, Rust, Grafana/ELK |
 ---
 
 ## 🎓 Education & Affiliations
-- 🎓 **Electrical Engineering (A.S.)** 
-- 🎓 **Information Technology (A.S.)** 
-- 🎓 **Science (A.S.)** 
-- 🚀 **NASA Intern** — Langley Research Center, Wallops Flight Facility, L’Space Academy  
-- 🤝 **Member** — IEEE, SHPE, and VEXU International Champion  
-- 🧠 **Guest Researcher** — Virginia Tech Computational Multiphysics Systems Lab
+-  **Electrical Engineering (A.S.)** 
+-  **Information Technology (A.S.)** 
+-  **Science (A.S.)** 
+-  **NASA Intern** — Langley Research Center, Wallops Flight Facility, L’Space Academy  
+-  **Member** — IEEE, SHPE, and VEXU International Champion  
+-  **Guest Researcher** — Virginia Tech Computational Multiphysics Systems Lab
 
 ---
 
